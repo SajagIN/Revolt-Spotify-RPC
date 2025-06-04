@@ -7,12 +7,12 @@
 Display what you are listening in spotify on Revolt.chat as status
 
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-![GitHub license1](https://img.shields.io/github/languages/top/CodeWhiteWeb/Revolt-Spotify-RPC)
-![GitHub license](https://img.shields.io/github/issues-pr-closed-raw/CodeWhiteWeb/Revolt-Spotify-RPC)
-![GitHub license2](https://img.shields.io/github/languages/code-size/CodeWhiteWeb/Revolt-Spotify-RPC)
-![GitHub license31](https://img.shields.io/github/issues/CodeWhiteWeb/Revolt-Spotify-RPC)
-![GitHub license3](https://img.shields.io/github/issues-pr/CodeWhiteWeb/Revolt-Spotify-RPC)
-![GitHub license4](https://img.shields.io/github/contributors/CodeWhiteWeb/Revolt-Spotify-RPC)
+![GitHub license1](https://img.shields.io/github/languages/top/SajagIN/Revolt-Spotify-RPC)
+![GitHub license](https://img.shields.io/github/issues-pr-closed-raw/SajagIN/Revolt-Spotify-RPC)
+![GitHub license2](https://img.shields.io/github/languages/code-size/SajagIN/Revolt-Spotify-RPC)
+![GitHub license31](https://img.shields.io/github/issues/SajagIN/Revolt-Spotify-RPC)
+![GitHub license3](https://img.shields.io/github/issues-pr/SajagIN/Revolt-Spotify-RPC)
+![GitHub license4](https://img.shields.io/github/contributors/SajagIN/Revolt-Spotify-RPC)
 
 </div>
 
@@ -21,7 +21,7 @@ Display what you are listening in spotify on Revolt.chat as status
 Clone the project
 
 ```bash
-  git clone https://github.com/CodeWhiteWeb/Revolt-Spotify-RPC
+  git clone https://github.com/SajagIN/Revolt-Spotify-RPC
 ```
 
 Go to the project directory
@@ -86,4 +86,4 @@ Fill all the required fields in `.env` file and run
 
 ## Author
 
-- [@CodeWhiteWeb](https://www.github.com/CodeWhiteWeb)
+- [@SajagIN](https://www.github.com/SajagIN)
