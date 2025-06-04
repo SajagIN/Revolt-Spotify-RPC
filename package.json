@@ -9,7 +9,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeWhiteWeb/Revolt-Spotify-RPC.git"
+    "url": "git+https://github.com/SajagIN/Revolt-Spotify-RPC.git"
   },
   "bugs": {
-    "url": "https://github.com/CodeWhiteWeb/Revolt-Spotify-RPC/issues"
+    "url": "https://github.com/SajagIN/Revolt-Spotify-RPC/issues"
   },
-  "homepage": "https://github.com/CodeWhiteWeb/Revolt-Spotify-RPC#readme",
+  "homepage": "https://github.com/SajagIN/Revolt-Spotify-RPC#readme",
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   }
